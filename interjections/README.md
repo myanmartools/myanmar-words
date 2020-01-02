@@ -1,0 +1,1 @@
+# Interjections (အာမေဍိတ်များ)

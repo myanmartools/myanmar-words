@@ -1,6 +1,6 @@
 # Myanmar Words
 
-Myanmar (Burmese) word list (text files) by part of speech.
+Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္ဂ).
 
 * [Nouns (နာမ်များ)](nouns/README.md)
 * [Pronouns (နာမ်စားများ)](pronouns/README.md)

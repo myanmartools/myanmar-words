@@ -11,3 +11,11 @@ Myanmar (Burmese) word list by part of speech.
 * [Prepositions (ဝိဘတ်များ)](prepositions/README.md)
 * [Pronouns (နာမ်စားများ)](pronouns/README.md)
 * [Verbs (ကြိယာများ)](verbs/README.md)
+
+## Feedback and Contributing
+
+Check out the [Contributing](https://github.com/myanmartools/myanmar-words/blob/master/CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+
+## License
+
+This repository is licensed with the [MIT](https://github.com/myanmartools/myanmar-words/blob/master/LICENSE) license.

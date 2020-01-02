@@ -1,0 +1,10 @@
+# Custom
+# --------------------------------------------------
+# System Files
+Thumbs.db
+
+# Mac OSX Finder files.
+.DS_Store
+
+# Misc.
+tmp/

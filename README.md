@@ -2,15 +2,15 @@
 
 Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္ဂ).
 
-* [နာမ်များ (Nouns)](nouns/README.md)
-* [နာမ်စားများ (Pronouns)](pronouns/README.md)
-* [ကြိယာများ (Verbs)](verbs/README.md)
-* [နာမဝိသေသနများ (Adjectives)](adjectives/README.md)
-* [ကြိယာဝိသေသနများ (Adverbs)](adverbs/README.md)
-* [ဝိဘတ်များ (Prepositions)](prepositions/README.md)
+* [နာမ်များ (Nouns)](နာမ်များ)
+* [နာမ်စားများ (Pronouns)](နာမ်စားများ)
+* [ကြိယာများ (Verbs)](ကြိယာများ)
+* [နာမဝိသေသနများ (Adjectives)](နာမဝိသေသနများ)
+* [ကြိယာဝိသေသနများ (Adverbs)](ကြိယာဝိသေသနများ)
+* [ဝိဘတ်များ (Prepositions)](ဝိဘတ်များ)
 * [သမ္ဗန္ဓများ (Conjunctions)](သမ္ဗန္ဓများ)
-* [ပစ္စည်းများ (Particles)](particles/README.md)
-* [အာမေဍိတ်များ (Interjections)](interjections/README.md)
+* [ပစ္စည်းများ (Particles)](ပစ္စည်းများ)
+* [အာမေဍိတ်များ (Interjections)](အာမေဍိတ်များ)
 
 ## Feedback and Contributing
 

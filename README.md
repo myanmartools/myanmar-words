@@ -1,4 +1,4 @@
-# Myanmar Words
+# Myanmar Words (မြန်မာစကားလုံးများ)
 
 Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္ဂ).
 

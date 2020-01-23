@@ -16,6 +16,12 @@ Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္�
 
 Check out the [Contributing](https://github.com/myanmartools/myanmar-words/blob/master/CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
+## References
+
+* Wiktionary (ဝစ်ရှင်နရီ)
+* မြန်မာအဘိဓာန်
+* မြန်မာသဒ္ဒါ
+
 ## License
 
 This repository is licensed with the [MIT](https://github.com/myanmartools/myanmar-words/blob/master/LICENSE) license.

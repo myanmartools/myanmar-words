@@ -1,6 +1,6 @@
 # Myanmar Words (မြန်မာစကားလုံးများ)
 
-**Archived. Now this repo is move to [MyanmarLinguistics/myanmar-words](https://github.com/myanmarlinguistics/myanmar-words).**
+**Archived. Now this repo has been moved to [MyanmarLinguistics/myanmar-words](https://github.com/myanmarlinguistics/myanmar-words).**
 
 Myanmar (Burmese) word list (text files) by part of speech (ဝါစင်္ဂ).
 

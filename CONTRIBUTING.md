@@ -1,35 +1,38 @@
-# How to contribute
+# ပူးပေါင်းပါဝင်ခြင်း (Contributing)
 
-One of the easiest ways to contribute is to participate in discussions and report issues. You can also contribute by submitting pull requests with code changes.
+သင်၏ အကြံပေးချက်များနှင့် ပူးပေါင်းပါဝင်မှုများ လိုအပ်နေပါသည်။ ဤအတွက် ပူးပေါင်းပါဝင်ပေးရန် ဖိတ်ခေါ်အပ်ပါသည်။
 
-## Report Issues
+## အထွေထွေသုံးသပ်ချက်များနှင့် အကြံဉာဏ်များပေးရန်
 
-We use [Github issues](https://github.com/myanmartools/myanmar-words/issues) to track public bugs. Please ensure your description is clear and has sufficient instructions to be able to reproduce the issue.
+အထွေထွေသုံးသပ်ချက်များနှင့် အကြံဉာဏ်များပေးနိုင်ရန်အတွက် Facebook (သို့) Gitter channel များမှတဆင့် ဆွေးနွေးနိုင်ပါသည်။
 
-## General Discussions
+* [myanmarlinguistics/community | Gitter](https://gitter.im/myanmarlinguistics/community)
+* [မြန်မာဘာသာဗေဒ - Myanmar Linguistics | Facebook](https://www.facebook.com/pg/myanmarlinguistics)
 
-We use [Gitter Channel](https://gitter.im/myanmartools/community) for general Myanmar Tools discussion.
+## စကားလုံးများနှင့် Code ပိုင်းဆိုင်ရာ အမှားများအတွက် တင်ပြရန်
 
-## Contributing Code and Content
+စကားလုံးများနှင့် Code ပိုင်းဆိုင်ရာ အမှားများအတွက် အကြံဉာဏ်များပေးလိုလျှင် [Github issues](https://github.com/myanmarlinguistics/myanmar-words/issues) ကိုအသုံးပြု၍ တင်ပြနိုင်ပါသည်။
 
-This is a rough outline of what a contributor's workflow looks like:
+## စကားလုံးများနှင့် Code ပိုင်းဆိုင်ရာ ထပ်မံဖြည့်သွင်းပါဝင်ရေးသားခြင်း
 
-1. Search [GitHub](https://github.com/myanmartools/myanmar-words/pulls) for an open or closed PR that relates to your submission. You don't want to duplicate effort.
+ စကားလုံးများနှင့် Code ပိုင်းဆိုင်ရာ ထပ်မံဖြည့်သွင်းပါဝင်ရေးသားခြင်းဖြင့်ကူညီလိုပါက လွယ်ကူစွာ ပါဝင်ရေးသားနိုင်ရန်အတွက် လမ်းညွှန်ချက်အချို့ကို အကြမ်းဖျင်းဖော်ပြလိုက်ပါသည်။
 
-2. Fork the [repo](https://github.com/myanmartools/myanmar-words) and create your branch `topic` from master.
+(၁) မိမိဖြည့်စွက်ပြင်ဆင်လိုသောအချက်များသည် အခြားသူများ လုပ်ဆောင်ထားခြင်း ရှိ၊မရှိ [GitHub Pull Request](https://github.com/myanmarlinguistics/myanmar-words/pulls) တွင်စစ်ဆေးနိုင်ပါသည်။
 
-3. Make your changes in a new git branch.
+(၂) ဤ [repo](https://github.com/myanmarlinguistics/myanmar-words) အား fork လုပ်ပြီး `topic` ဆိုသော အမည်နှင့် branch တစ်ခုကို ဖန်တီးလိုက်ပါ။
 
-4. Commit your changes using a descriptive commit message that follows our [commit message conventions](https://gist.github.com/dagonmetric-contributor/b3815561401555fa9ac2530f32e56dd3).
+(၃) အဲဒီ git branch အသစ်မှာ ဖြည့်စွက်ပြင်ဆင်လိုသည်များကို ပြုလုပ်လိုက်ပါ။
 
-5. Push your branch to GitHub forked repo.
+(၄) အဲဒီနောက် ပြင်ဆင်ဖြည့်စွက်ထားသည်များကို commit လုပ်ပါ။ Commit message ရိုက်ရာ၌ ပြန်လည်ဖတ်ရှုရာတွင် အဆင်ပြေစေရန်နှင့် တူညီသော ပုံစံတစ်ခုဖြစ်စေရန်အတွက် [commit message conventions](https://gist.github.com/dagonmetric-contributor/b3815561401555fa9ac2530f32e56dd3) လမ်းညွှန်မှာ အသေးစိတ်ဖော်ပြထားပါသည်။
 
-6. In GitHub, submit a pull request to [myanmartools/myanmar-words](https://github.com/myanmartools/myanmar-words).
+(၅) Local မှာ ရှိနေသော branch ကို GitHub မှာရှိတဲ့ သင့်ရဲ့ forked repo ဆီ push လုပ်လိုက်ပါ။
 
-7. If you haven’t signed the CLA, you will see a automatic comment in the pull request. Click on the Details link. You will see the CLA. Click on sign in with Github to agree. And authorize CLA assistant to use your Github account to sign the CLA.
+(၆) GitHub [myanmarlinguistics/myanmar-words](https://github.com/myanmarlinguistics/myanmar-words) ဆီသို့ pull request လုပ်လိုက်ပါ။
 
-That's it! Thank you for your contribution. After your pull request is merged, you can safely delete your branch 'topic'.
+(ရ) အကယ်၍ CLA လက်မှတ် မရေးထိုးရသေးရင် သင့်ရဲ့ pull request မှာ ရေးထိုးဖို့ ပေါ်လာပါလိမ့်မည်။ အဲဒီမှာ Details link ကို click ပြီး CLA ကို ဖတ်ကြည့်နိုင်ပါသည်။ သင့် Github account ကို အသုံးပြု၍ sign in ဝင်ပြီး CLA ကိုလက်မှတ်ရေးထိုးလိုက်ပါ။
 
-## License
+သင့်ရဲ့ ပူးပေါင်းပါဝင်ရေးသားခြင်းအတွက် ကျေးဇူးတင်ပါသည်။ Pull Request ကို merge လုပ်ပြီးသွားရင် သင့်ရဲ့ 'topic' branch ကိုဖျက်ပစ်နိုင်ပါသည်။
 
-By contributing to, you agree that your contributions will be licensed under the LICENSE file in the root directory of this source tree.
+## ခွင့်ပြုချက်
+
+သင့်ရဲ့ ပူးပေါင်းပါဝင်ခြင်းများသည် ဤ reposity မှာပါရှိသည့် LICENSE file အတိုင်း ခွင့်ပြုချက်ပေးသည်ဟု သဘောတူပြီးသား ဖြစ်ပါလိမ့်မည်။

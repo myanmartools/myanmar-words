@@ -7,7 +7,6 @@
 အထွေထွေသုံးသပ်ချက်များနှင့် အကြံဉာဏ်များပေးနိုင်ရန်အတွက် Facebook (သို့) Gitter channel များမှတဆင့် ဆွေးနွေးနိုင်ပါသည်။
 
 * [myanmartools/community | Gitter](https://gitter.im/myanmartools/community)
-* [မြန်မာဘာသာဗေဒ - Myanmar Linguistics | Facebook](https://www.facebook.com/pg/myanmartools)
 
 ## စကားလုံးများနှင့် Code ပိုင်းဆိုင်ရာ အမှားများအတွက် တင်ပြရန်
 

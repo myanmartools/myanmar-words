@@ -10,8 +10,8 @@
 ## အကြံဉာဏ်ပေးခြင်းနှင့် ပူးပေါင်းပါဝင်ခြင်း
 
 အကြံဉာဏ်ပေးခြင်းနှင့် ပူးပေါင်းပါဝင်ခြင်းများ လုပ်ဆောင်ရန်အတွက် ဖိတ်ခေါ်အပ်ပါသည်။
-[ပူးပေါင်းပါဝင်ခြင်း](https://github.com/myanmarlinguistics/myanmar-words/blob/master/CONTRIBUTING.md) စာမျက်နှာတွင် အသေးစိတ်ဖော်ပြပေးထားပါသည်။
+[ပူးပေါင်းပါဝင်ခြင်း](https://github.com/myanmartools/myanmar-words/blob/master/CONTRIBUTING.md) စာမျက်နှာတွင် အသေးစိတ်ဖော်ပြပေးထားပါသည်။
 
 ## ခွင့်ပြုမှု
 
-ဤ repository ရှိ အချက်အလက်များကို [MIT](https://github.com/myanmarlinguistics/myanmar-words/blob/master/LICENSE) လိုင်စင်ဖြင့် ခွင့်ပြုပေးထားပါသည်။
+ဤ repository ရှိ အချက်အလက်များကို [MIT](https://github.com/myanmartools/myanmar-words/blob/master/LICENSE) လိုင်စင်ဖြင့် ခွင့်ပြုပေးထားပါသည်။
